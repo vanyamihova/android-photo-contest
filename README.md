@@ -1,4 +1,4 @@
-# homework-lecture-4
+# Photo contest
 
 Simple Project with RecyclerView which shows image, like and dislike buttons, add comments, shows comments' count
 
